@@ -112,21 +112,11 @@ sudo systemctl restart nginx
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 EC2 Instance Running
-
-![EC2 Screenshot](./screenshots/ec2-instance.png)
 
 ### 🔹 Application in Browser
 
 ![App Screenshot](./screenshots/app-running.png)
 
-### 🔹 NGINX Configuration
-
-![NGINX Screenshot](./screenshots/nginx-config.png)
-
-> 📁 Create a `screenshots/` folder in your repo and add your images there.
 
 ---
 
@@ -158,16 +148,5 @@ sudo systemctl restart nginx
 
 ---
 
-## 🤝 Contributing
 
-Feel free to fork this repo and improve it!
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ If you found this helpful, give it a star!
